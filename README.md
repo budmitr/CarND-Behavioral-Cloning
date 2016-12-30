@@ -239,6 +239,14 @@ def preprocess_image(img):
     return img
 ```
 
+## Track 1 video
+
+[![Screenshot](https://img.youtube.com/vi/nRRrzWVPdzw/0.jpg)](https://www.youtube.com/watch?v=nRRrzWVPdzw)
+
+## Track 2 video
+
+[![Screenshot](https://img.youtube.com/vi/mnXbo6hVnHo/0.jpg)](https://www.youtube.com/watch?v=mnXbo6hVnHo)
+
 # Acknowledgements
 
 Big thanks to [Vivek Yadav](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9) 
