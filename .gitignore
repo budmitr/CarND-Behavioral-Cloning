@@ -1,3 +1,9 @@
+# P3 files
+udacity_data/
+data_val/
+data_test/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
